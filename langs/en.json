@@ -1,0 +1,10 @@
+{
+  "unlock":"Unlock",
+  "lock":"Lock",
+  "master_password": "Master Password",
+  "general": "General",
+  "security": "Security",
+  "about": "About",
+  "version": "Version",
+  "search": "Search"
+}
